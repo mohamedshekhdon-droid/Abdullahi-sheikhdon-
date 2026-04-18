@@ -29,7 +29,7 @@ Master's graduate from **Universiti Teknologi Malaysia (UTM)** with a specialize
 | **Energy** | Reservoir Engineering, Well Drilling Methods, Petroleum Logistics |
 | **Water** | MODFLOW, Well Hydraulics, Hydrochemistry, GIS |
 | **Management** | Environmental Impact Assessment (EIA), Project Strategy |
-| **Software** | ArcGIS, Microsoft Office Suite, [Add other engineering software] |
+| **Software** | ArcGIS, Microsoft Office Suite.
 
 ---
 
@@ -48,7 +48,7 @@ Currently developing digital frameworks to manage land-use and logistics in high
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [Insert your LinkedIn Link]
+- **LinkedIn:** [https://www.linkedin.com/in/abdullahi-sheikhdon-pe-2a9572176/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVWYzub39TRSNZ2eO8FfFiQ%3D%3D]
 - **Location:** Based in Somalia (Open to regional and international consultancy)
 - **Focus:** I am seeking opportunities in the Energy sector, Water Resource Management, or Environmental Policy.
 
